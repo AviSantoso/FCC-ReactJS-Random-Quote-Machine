@@ -1,0 +1,13 @@
+* {
+  font-family: roboto, sans-serif;
+}
+
+#quote-box {
+  margin: auto;
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}
