@@ -12,7 +12,7 @@ export default function App() {
 
   return (
     <div id="quote-box" className="container margin-m">
-      <h1 className="text-align-center">Random Quote Generator</h1>
+      <h1 className="text-align-center">Random Quote Machine</h1>
       <p id="text" className="lead lead-l text-align-center">
         "{quote.text}"
       </p>
